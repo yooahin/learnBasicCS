@@ -1,2 +1,4 @@
 # learnBasicCS
-learning channel, record what I have learned
+learning channel, my notes and summaries after reading or learning sth. Written in chinese. 
+
+
